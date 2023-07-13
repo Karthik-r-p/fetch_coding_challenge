@@ -1,3 +1,3 @@
 # fetch_coding_challenge
 
-It includes the coding challenge for fetch company with all the steps.
+It includes all the required tasks and steps of the coding challenge for the fetch company.
